@@ -119,17 +119,17 @@ bookingForm.addEventListener('submit', (e) => {
 const testimonials = [
     {
         text: "Elegant Salon has been my go-to place for years. The team is incredibly talented and always makes me feel welcome. My hair has never looked better!",
-        author: "Amanda K.",
+        author: "Jagdish.",
         role: "Regular Client"
     },
     {
         text: "I had my bridal hair and makeup done here and couldn't have been happier. The stylists understood exactly what I wanted and made me feel so beautiful on my special day.",
-        author: "Jessica R.",
+        author: "Payal Sood.",
         role: "Bride"
     },
     {
         text: "The nail technicians here are true artists! I always leave with perfect nails that last for weeks. The salon is clean, relaxing, and the staff is so friendly.",
-        author: "Michael T.",
+        author: "Ravi Bhadoriya.",
         role: "Loyal Customer"
     }
 ];
